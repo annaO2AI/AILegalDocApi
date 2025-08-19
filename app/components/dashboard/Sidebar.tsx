@@ -97,7 +97,7 @@ export default function Sidebar({
       
         {/* Static Menu Item */}
         <a
-          href="/"
+          href="/talent-acquisition"
           onClick={handleSubItemClick}
           className="px-4 py-5 flex items-center hover:bg-gray-200 transition-colors gap-3 min-w-[20px]"
         >
